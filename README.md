@@ -1,3 +1,2 @@
-Menggabungkan perubahan dari branch development ke branch main
-
-GitHub itu asyik lohh
+# Ini adalah repository untuk membuat branch baru di GitHub
+Belajar GitHub di Dicoding itu seru!
